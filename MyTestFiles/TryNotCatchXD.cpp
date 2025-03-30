@@ -26,7 +26,6 @@ public:
 
 int main(){
 cout << "Logger Test" << endl;
-    cout << "====================" << endl;
 
     console_logger logger;
     try
