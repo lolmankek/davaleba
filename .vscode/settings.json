@@ -1,4 +1,7 @@
 {
     "C_Cpp.errorSquiggles": "enabled",
-    "C_Cpp.default.compilerPath": "/usr/"
+    "C_Cpp.default.compilerPath": "/usr/",
+    "files.associations": {
+        "ostream": "cpp"
+    }
 }
